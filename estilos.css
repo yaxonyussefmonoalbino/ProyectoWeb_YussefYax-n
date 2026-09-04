@@ -1,0 +1,29 @@
+/* Estilo general de la pagina*/
+body{
+    font-family: Arial, sans-serif;
+    text-align: center; 
+    background-color:rgb(23, 121, 196);
+}
+
+/* Color del titulo*/
+h1{
+    color: blue;
+}
+
+/* Tamaño de las letricas*/
+p{
+    font-size: 25px 
+}
+
+/* Cosas de la imagen*/
+img{
+    width: 250px;
+    border-radius: 20px;
+}
+
+/* Aplicamos estilos a los elementos que tengan la clase tarjeta*/
+.target{
+    background-color: antiquewhite;
+    
+    padding: 20px;
+}
